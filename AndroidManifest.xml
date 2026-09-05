@@ -12,7 +12,7 @@
         android:allowBackup="true"
         android:label="JARVIS"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Jarvis">
+        android:theme="@android:style/Theme.Material.NoActionBar"
 
         <activity
             android:name=".MainActivity"
